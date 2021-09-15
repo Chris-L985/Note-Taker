@@ -15,6 +15,8 @@
   * [Questions](#questions)
   ## Usage
   No instructions needed. Go to the site link and after entering the app. Press the plus and type away. Click the save icon to store notes.
+  Image of deployed application:
+  ![image](https://user-images.githubusercontent.com/82353057/133380588-48b10533-90c9-40c2-b7c3-fcb13b04548c.png)
   ## Languages
   HTML,CSS,JavaScript,ES6,Bootstrap,Node
   ## Contributions
